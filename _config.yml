@@ -6,7 +6,7 @@ github_repo: DmytroOnopa
 github_username: theGrove
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /thegrove-garage
+baseurl: /thegrove_garage
 defaults:
   - scope:
       path: ''
