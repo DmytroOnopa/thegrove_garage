@@ -1,38 +1,25 @@
-
-# SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
-
-# social
-social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+title: "theGrove\U0001F333Genius-Garage"
+description: 'Genius-Garage: The place where you get support for your Mac or iDevice.'
+social_link: t.me/guys_from_Cupertino
+social_username: Genius
+github_repo: DmytroOnopa
+github_username: theGrove
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/thegrove_garage'
-
-# Defaults
-
+remote_theme: internet-de-france/swiss
+baseurl: /thegrove-garage
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +30,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - black
   - blue
@@ -53,5 +39,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
